@@ -1,0 +1,7 @@
+{
+	"name":"来点xx的图片",
+	"description":"收到 #来点xx的图片 发送xx的图片，xx可以换成其它。",
+	"author":"super1207",
+	"version":"0.0.1",
+	"need_python":false
+}
