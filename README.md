@@ -1,3 +1,3 @@
-[红色问答](https://github.com/super1207/redreply)的插件,收到`#来点xx的图片`就发送一张和xx有关的图片。你可以在红色问答的插件商店安装此插件。
+[红色问答](https://github.com/super1207/redreply)的插件,可以快速把别人的插件（包中script.json文件）导入自己的红色问答。
 
 ![alt text](image.png)
