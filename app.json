@@ -1,7 +1,7 @@
 {
-	"name":"来点xx的图片",
-	"description":"收到 #来点xx的图片 发送xx的图片，xx可以换成其它。",
-	"author":"super1207",
+	"name":"导入插件",
+	"description":"上传别人包中script.json文件，快速导入插件",
+	"author":"swyuuki",
 	"version":"0.0.1",
 	"need_python":false
 }
